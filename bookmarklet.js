@@ -1,0 +1,1 @@
+document.getElementsByTagName('body')[0].appendChild(document.createElement('script')).setAttribute('src','https://www.openaccessbutton.org/api/bookmarklet/d6f9d3e0a93843efbfcc208e9e998a14.js');
